@@ -698,17 +698,6 @@
       "grayImageUrl": "https://i.ibb.co/mHNXdVX/k46grey.png",
       "colorImageUrl": "https://i.ibb.co/cwnjkzX/k46.png",
       "itemName": "server_130"
-    },
-    {
-      "grayImageUrl": "https://i.ibb.co/hRqKqsN/123grey.png",
-      "colorImageUrl": "https://i.ibb.co/zmH3FJG/123.png",
-      "itemName": "server_131"
-    },
-    {
-      "grayImageUrl": "https://i.ibb.co/jRDLdyC/124grey.png",
-      "colorImageUrl": "https://i.ibb.co/f9gswvm/124.png",
-      "itemName": "server_132",
-      "videoToUnlock": true
     }
   ]
 }
