@@ -43,6 +43,33 @@
       "grayImageUrl": "https://i.ibb.co/Bqb0xf3/ag008-grey.png",
       "colorImageUrl": "https://i.ibb.co/WxqncWS/ag008.png",
       "itemName": "server_8"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/MNLjLP2/ag009-grey.png",
+      "colorImageUrl": "https://i.ibb.co/mG6MVkX/ag009.png",
+      "itemName": "server_9"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/L1XmcBs/ag010-grey.png",
+      "colorImageUrl": "https://i.ibb.co/52Xsn93/ag010.png",
+      "itemName": "server_10",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/KDS1zW5/ag011-grey.png",
+      "colorImageUrl": "https://i.ibb.co/wJgXhvq/ag011.png",
+      "itemName": "server_11",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/CKQm3LC/ag012-grey.png",
+      "colorImageUrl": "https://i.ibb.co/6btV6Vy/ag012.png",
+      "itemName": "server_12"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/Lx0Xscx/ag013-grey.png",
+      "colorImageUrl": "https://i.ibb.co/mBJJ3bZ/ag013.png",
+      "itemName": "server_13"
     }
   ]
 }
