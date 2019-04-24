@@ -92,6 +92,12 @@
       "grayImageUrl": "https://i.ibb.co/pL7qdRz/ag017-grey.png",
       "colorImageUrl": "https://i.ibb.co/wRZDQKJ/ag017.png",
       "itemName": "server_17"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/vYJCv4V/ag018-grey.png",
+      "colorImageUrl": "https://i.ibb.co/7X00yKw/ag018.png",
+      "itemName": "server_18",
+      "videoToUnlock": true
     }
   ]
 }
