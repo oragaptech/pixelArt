@@ -245,6 +245,17 @@
       "grayImageUrl": "https://i.ibb.co/99Vnkqr/ag045-grey.png",
       "colorImageUrl": "https://i.ibb.co/D4H5n95/ag045.png",
       "itemName": "server_45"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/0rp0n1y/ag046-grey.png",
+      "colorImageUrl": "https://i.ibb.co/gdmxz8f/ag046.png",
+      "itemName": "server_46",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/NStJz18/ag047-grey.png",
+      "colorImageUrl": "https://i.ibb.co/W5NsJrT/ag047.png",
+      "itemName": "server_47"
     }
   ]
 }
