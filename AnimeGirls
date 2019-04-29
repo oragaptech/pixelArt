@@ -256,6 +256,40 @@
       "grayImageUrl": "https://i.ibb.co/NStJz18/ag047-grey.png",
       "colorImageUrl": "https://i.ibb.co/W5NsJrT/ag047.png",
       "itemName": "server_47"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/68gCmGS/ag048-grey.png",
+      "colorImageUrl": "https://i.ibb.co/YtLmSYL/ag048.png",
+      "itemName": "server_48"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/HhBYKmh/ag049-grey.png",
+      "colorImageUrl": "https://i.ibb.co/17gft5r/ag049.png",
+      "itemName": "server_49",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/TRhs0ry/ag050-grey.png",
+      "colorImageUrl": "https://i.ibb.co/3BVdLms/ag050.png",
+      "itemName": "server_50"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/VVBZB8D/ag051-grey.png",
+      "colorImageUrl": "https://i.ibb.co/G06jrtc/ag051.png",
+      "itemName": "server_51",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/BjcTMK2/ag052-grey.png",
+      "colorImageUrl": "https://i.ibb.co/PGjhCNW/ag052.png",
+      "itemName": "server_52",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/8KgYrvy/ag053-grey.png",
+      "colorImageUrl": "https://i.ibb.co/48sf2c3/ag053.png",
+      "itemName": "server_53",
+      "videoToUnlock": true
     }
   ]
 }
