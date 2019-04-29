@@ -290,6 +290,17 @@
       "colorImageUrl": "https://i.ibb.co/48sf2c3/ag053.png",
       "itemName": "server_53",
       "videoToUnlock": true
-    }
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/bJR0X72/ag054-grey.png",
+      "colorImageUrl": "https://i.ibb.co/tLqr32c/ag054.png",
+      "itemName": "server_54"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/qR9T48G/ag055-grey.png",
+      "colorImageUrl": "https://i.ibb.co/ZgbKRWt/ag055.png",
+      "itemName": "server_55",
+      "videoToUnlock": true
+}
   ]
 }
