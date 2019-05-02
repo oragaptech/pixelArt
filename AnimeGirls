@@ -384,6 +384,61 @@
       "colorImageUrl": "https://i.ibb.co/x1vdZCs/ag070.png",
       "itemName": "server_70",
       "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/wNFjsBF/ag071-grey.png",
+      "colorImageUrl": "https://i.ibb.co/P6Z8sGw/ag071.png",
+      "itemName": "server_71",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/cDFPf6x/ag072-grey.png",
+      "colorImageUrl": "https://i.ibb.co/mzn3NW2/ag072.png",
+      "itemName": "server_72",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/vsJ74ZS/ag073-grey.png",
+      "colorImageUrl": "https://i.ibb.co/5FYJFc2/ag073.png",
+      "itemName": "server_73",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/Km53RFy/ag074-grey.png",
+      "colorImageUrl": "https://i.ibb.co/CJFzcys/ag074.png",
+      "itemName": "server_74",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/F55Tfzq/ag075-grey.png",
+      "colorImageUrl": "https://i.ibb.co/tMs9bw1/ag075.png",
+      "itemName": "server_75",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/d5kggKb/ag076-grey.png",
+      "colorImageUrl": "https://i.ibb.co/1QPxXhJ/ag076.png",
+      "itemName": "server_76"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/MfCChz9/ag077-grey.png",
+      "colorImageUrl": "https://i.ibb.co/6DCJWWr/ag077.png",
+      "itemName": "server_77"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/Zcgbrbg/ag078-grey.png",
+      "colorImageUrl": "https://i.ibb.co/J3Vm8xH/ag078.png",
+      "itemName": "server_78"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/Zd5m9ct/ag079-grey.png",
+      "colorImageUrl": "https://i.ibb.co/jgGrHvH/ag079.png",
+      "itemName": "server_79"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/s97rB7h/ag080-grey.png",
+      "colorImageUrl": "https://i.ibb.co/LJ80m3b/ag080.png",
+      "itemName": "server_80"
     }
   ]
 }
