@@ -5,8 +5,14 @@
       "itemName": "server_1"
     },
     {
-      "rawImageUrl": "https://i.ibb.co/tMs9bw1/ag075.png",
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/1a.csv",
       "itemName": "server_2"
+    }{
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/2.csv",
+      "itemName": "server_3"
+    }{
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/7a.csv",
+      "itemName": "server_4"
     }
   ]
 }
