@@ -1,0 +1,6 @@
+{
+  "versions : 1"
+  "bannerID" : "your banner id",
+  "interstitialID" : "Your inters id",
+  "rewardID" : "Your reward id"
+}
